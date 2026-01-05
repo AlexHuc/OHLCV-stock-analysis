@@ -1,9 +1,6 @@
 # Python environment
 /OHLCV_venv
 
-# Ignore models folder
-/models
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
