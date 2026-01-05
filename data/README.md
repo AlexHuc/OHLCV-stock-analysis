@@ -64,17 +64,6 @@ The dataset bridges the gap between synthetic data availability and real-world t
 6. **Multi-timeframe Analysis**: Correlate patterns across different chart windows to identify hierarchical market structures
 7. **Transformer Models**: Implement attention-based models to capture temporal dependencies in candlestick sequences
 
-## Dataset Structure
-
-### File Organization
-```
-data/
-├── candlestick_00001.json
-├── candlestick_00002.json
-├── ...
-└── candlestick_01219.json  (1,219 files total)
-```
-
 ### JSON File Schema
 
 Each JSON file contains:
