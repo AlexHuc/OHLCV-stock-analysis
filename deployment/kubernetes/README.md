@@ -90,9 +90,9 @@ curl -X POST http://localhost:9696/predict \
 **Response:**
 ```json
 {
-  "classification_label": 1,
-  "classification_probability": 0.8234,
-  "regression_prediction": 104.52
+  "classification_label": 0,
+  "classification_probability": 0.2592,
+  "regression_prediction": 91.58
 }
 ```
 
